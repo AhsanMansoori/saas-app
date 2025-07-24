@@ -8,4 +8,4 @@ const CompanionsLibrary = () => {
   )
 }
 
-export default CompanionsLibrary
+export default CompanionsLibrary;
